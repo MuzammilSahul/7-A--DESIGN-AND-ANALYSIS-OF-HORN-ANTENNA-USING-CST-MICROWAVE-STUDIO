@@ -52,12 +52,19 @@ Result:
 The horn antenna was successfully designed and simulated using CST Microwave Studio to operate at 5.5 GHz.
 
 Antenna type: Pyramidal Horn Antenna
+
 Operating frequency (f): 5.5 GHz
+
 Wavelength (λ): 54.54 mm
+
 Aperture size (a): 110 mm (for both E and H planes)
+
 Horn length (L): 160 mm
+
 Flare angle (θ): ≈ 38°
+
 Return loss (S11): Better than –25 dB at 5.5 GHz
+
 Directivity (D): ≈ 15 dB
 Half Power Beam Width (HPBW): ≈ 26°
 Hence, the designed horn antenna provides good impedance matching, high directivity, and a narrow beam width suitable for microwave applications.
